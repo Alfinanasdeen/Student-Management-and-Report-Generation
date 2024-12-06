@@ -12,7 +12,7 @@ This project allows you to manage **students**, **subjects**, and **marks** usin
 ## Postman Documentation
 Comprehensive documentation for all API endpoints is available in **Postman**.  
 The Postman collection includes detailed descriptions, sample requests, and responses for all functionalities.  
-[https://documenter.getpostman.com/view/40205242/2sAYBbdp6w](#) *(Replace with your link)*
+[https://documenter.getpostman.com/view/40205242/2sAYBbdp6w](#) 
 
 ## Installation
 
